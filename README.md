@@ -11,4 +11,4 @@ objetivos:
 *Crear un proyecto en Rstudio
 *Sincronizar el repositorio de Github con Rstudio
 *Instalar miktex
-*Instalar librerias para R
+*Instalar librerias para R.
