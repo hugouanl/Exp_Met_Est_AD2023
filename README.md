@@ -10,3 +10,4 @@ objetivos:
 * _Repositorio Exp_Met_Est_AD2023_
 *Crear un proyecto en Rstudio
 *Sincronizar el repositorio de Github con Rstudio
+*Instalar miktex
