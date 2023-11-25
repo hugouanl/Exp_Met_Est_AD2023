@@ -1,6 +1,6 @@
 # Exp Met Est AD2023
 Código desarrollado durante el curso de Experimentación y Métodos Estadísticos.
-
+Semestre agosto-diciembre, 2023
 
 ## Sesión  17/08/2023 📆
 objetivos:
