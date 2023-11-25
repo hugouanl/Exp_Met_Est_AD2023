@@ -3,7 +3,7 @@
 
 # TAREA_3 - Comparación de medias
 
-setwd("C:/UANL_FCF/REPOSITORIOS/Exp_Met_Est_AD2023/Tareas")
+setwd("C:/UANL_FCF/REPOSITORIOS/Exp_Met_Est_AD2023")
 
 
 # EJERCICIO 1 -------------------------------------------------------------
@@ -12,20 +12,20 @@ setwd("C:/UANL_FCF/REPOSITORIOS/Exp_Met_Est_AD2023/Tareas")
 
 # Datos
 
-Laboratorio_3 <- read.csv("Laboratorio_3.csv",header = TRUE)
+Laboratorio_3 <- read.csv("Tareas_Laboratorios/Laboratorio_3.csv",header = TRUE)
 head(Laboratorio_3)
-Datos <- data.frame(Grupo, Ansiedad)
+
 head(Datos)
 mean(Laboratorio_3$Grupo_1)
 mean(Laboratorio_3$Grupo_2)
 var(Laboratorio_3$Grupo_1)
 var(Laboratorio_3$Grupo_2)
 
+boxplot (Laboratorio_3$Grupo_1, Laboratorio_3$Grupo_2,
+        col = "green", ylim= c(30, 60), ylab= "Nivel de ansiedad")
+mtext("datos$Grupo", side=1, padj=3, adj=1)
 
-boxplot(Ansiedad~Datos$Grupo,
-        col = "green",
-        ylim=c(30, 60),
-        ylab="Nivel de ansiedad")
+
 
 
 #Resuelva
@@ -117,7 +117,7 @@ mean(cont)
 
 # Considere los datos del siguiente cuadro los cuales fueron obtenidos de muestras de suelo de un bosque templado en dos tiempos diferentes. Los datos muestran el contenido de carbono orgánico medidos en las mismas muestras solo en distintas épocas.
 
-TAREA_3<- read.csv("TAREA_3.csv", header = TRUE)
+TAREA_3<- read.csv("Tareas_Laboratorios/TAREA_3.csv", header = TRUE)
 head(TAREA_3)
 
 median(TAREA_3$Time.1)
