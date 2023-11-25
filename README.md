@@ -54,4 +54,4 @@ objetivos:
 * * Repaso General de Lo visto en cada uno de las clases
   * lo anterior para el posterior exámen
  
-## Contribución al repositorio  LO Lrgo del semestre📆
+## Contribución al repositorio a lo largo del semestre📆
