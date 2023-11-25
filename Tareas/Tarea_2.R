@@ -97,7 +97,7 @@ t.test (Azufre)
 # EJERCICIO 3 -------------------------------------------------------------
 
 # Con la base de datos del Gobierno de México, se presenta la Temperatura actual diaria de las estaciones climatológicas convencionales contenidas en el Sistema de Información Hidrológica (SIH) almacenados en GitHub: https://raw.githubusercontent.com/mgtagle/MCF-202_Agosto_2021/main/TEM PAIRE_DIA.csv
-setwd("C:/UANL_FCF/REPOSITORIOS/Exp_Met_Est_AD2023/Tareas_Laboratorios")
+setwd("C:/UANL_FCF/REPOSITORIOS/Exp_Met_Est_AD2023/Tareas")
 TAREA_2 <- read.csv("TAREA_2.csv", header = TRUE)
 head(TAREA_2)
 

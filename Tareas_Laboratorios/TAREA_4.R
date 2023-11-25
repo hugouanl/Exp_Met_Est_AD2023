@@ -24,7 +24,7 @@ head(Nemátodos)
 
 boxplot(Nemátodos~Variables$Grupo,
   col = "blue",
-        ylim=c(80, 190),
+        ylim=c(90, 185),
         ylab="Número de nemátodos")
 mtext("Tipos de suelo", side=1, padj=3)
 
@@ -78,9 +78,10 @@ head(Rango)
 
 boxplot(Rango~Riesgos$Régimen,
         col = "blue",
-        ylim=c(0, 45),
+        ylim=c (0, 45),
         ylab="crecimiento (mm)")
 mtext("Tipo de Riesgo", side=1, padj=3)
+
 
 # Aplique la función tapply y encuentre las varianzas de los cinco tratamientos. ¿Cuántas veces es la diferencia entre la varianza más pequeña y la más grande?
 

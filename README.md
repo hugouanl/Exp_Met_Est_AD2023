@@ -57,6 +57,5 @@ objetivos:
 ## Contribución al repositorio a lo largo del semestre📆
 ![ACTIVIDADES](https://github.com/hugouanl/Exp_Met_Est_AD2023/assets/142333413/f1f7fa72-8c2d-4842-b7f5-456abbed01ec)
 
-[Monitoreo de actividades.pdf](https://github.com/hugouanl/Exp_Met_Est_AD2023/files/13463135/Monitoreo.de.actividades.pdf)
 
 
