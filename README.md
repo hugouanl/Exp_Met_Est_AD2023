@@ -55,3 +55,7 @@ objetivos:
   * lo anterior para el posterior exámen
  
 ## Contribución al repositorio a lo largo del semestre📆
+
+[Monitoreo de actividades.pdf](https://github.com/hugouanl/Exp_Met_Est_AD2023/files/13463135/Monitoreo.de.actividades.pdf)
+
+
